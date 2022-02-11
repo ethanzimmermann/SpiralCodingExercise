@@ -1,5 +1,10 @@
 # akita-coding-exercise
 
+## Description
+```
+In this project, a user enters an integer as input and the component calculates and displays the spiral format for the given number
+```
+
 ## Project setup
 ```
 npm install
